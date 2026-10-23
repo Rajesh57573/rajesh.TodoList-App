@@ -4,7 +4,7 @@ A modern, responsive Todo List application built using HTML, CSS, and JavaScript
 
 ## 🌐 Live Demo
 
-🔗 **[View Todo List App](YOUR_DEPLOYED_DEMO_LINK)**
+🔗 **[View Todo List App](https://rajeshtodolist-app.vercel.app/)**
 
 ## ✨ Features
 
